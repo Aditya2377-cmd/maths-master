@@ -1,0 +1,20 @@
+Level: 1 | Op: M | Final Score: 20
+| Time Taken: 15.21s
+Level: 1 | Op: M | Final Score: 20
+| Time Taken: 18.75s
+Level: 1 | Op: M | Final Score: 20
+| Time Taken: 28.31s
+Level: 1 | Op: M | Final Score: 20
+| Time Taken: 55.05s
+Level: 1 | Op: S | Final Score: 11
+| Time Taken: 32.93s
+Level: 1 | Op: S | Final Score: 7
+| Time Taken: 21.47s
+Level: 1 | Op: A | Final Score: 16
+| Time Taken: 21.49s
+Level: 1 | Op: A | Final Score: 12
+| Time Taken: 42.61s
+Level: 1 | Op: A | Final Score: 16
+| Time Taken: 37.55s
+Level: 1 | Op: A | Final Score: 15
+| Time Taken: 40.43s
